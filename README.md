@@ -11,11 +11,11 @@ Reference material:
 
 As someone who wants to use your research software to reproduce results, test alternate hypotheses, build on your existing hard work, etc., we would appreciate it immensely if we can:
 
-1. Find your code (descriptive metadata exposed in an interoperable format by the digital repository where indexed by a scholarly indices or search engines)
-2. Cite your code, with a permanent identifier that resolves to the specific version(s) of software that I used and published on
-3. Understand how to use your code (this one will be long!) by reading clear and cogent narrative documentation on how to build and execute your research software, what the input parameters mean, what the outputs mean, what software and data dependencies are needed (also versioned with permanent identifiers where possible), what assumptions were made 
-4. (maybe? a bonus / stretch goal) Make contributions to your code to fix bugs, add support for new features, refactor and [reduce technical debt](https://technology.riotgames.com/news/taxonomy-tech-debt) 
-5. Any others? Submit a pull request with your changes!
+1. Find your code: descriptive metadata exposed in interoperable format(s) by the digital repository and indexed by scholarly indices / search engines
+2. Cite your code: permanent identifiers resolve to the specific version(s) of software used in the resulting publication
+3. Understand how to use your code: (this one will be long!) read clear and cogent narrative documentation with details on how to build and execute your research software. Also, please describe acceptable inputs, expected outputs, any software and data dependencies (versioned with permanent identifiers if possible), what assumptions if any exist
+4. Make contributions to your code: (stretch goal?) add new features, fix bugs, refactor and [reduce technical debt](https://technology.riotgames.com/news/taxonomy-tech-debt), improve documentation, etc. 
+5. Any others we've missed? Please let us know with a pull request or issue.
 
 # FAIR practices for research software
 
@@ -23,7 +23,7 @@ As someone who wants to use your research software to reproduce results, test al
 2. Document your code with narrative documentation and descriptive metadata that meet community / domain specific standards
 3. Archive your code in a TRUSTed digital repository that exposes your descriptive metadata in accessible and interoperable ways (e.g., Zenodo for your GitHub repositories: https://guides.github.com/activities/citable-code/)
 4. Use disciplined version control with descriptive commit messages and clear provenance (goals: small focused commits, clean history, linkages between commits, issues, and pull requests, [continuous integration](https://lab.github.com/githubtraining/github-actions:-continuous-integration))
-5. Any others? Submit a pull request with your changes!
+5. Any others we've missed? Please let us know with a pull request or issue.
 
 
 
